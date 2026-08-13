@@ -1,0 +1,9 @@
+The "Basic Structure of an HTML Website" topic is covered in Video 3.
+
+In this video, you'll learn about the basic structure of an HTML document, including what an HTML document looks like and how it's executed. You'll get to know the basics of HTML, which is a fundamental concept in web development.
+
+To find out more about how HTML works, check out the timestamp 312 seconds into Video 3. The instructor will break down the process of executing an HTML document, giving you a clear understanding of what happens behind the scenes.
+
+If you want to see more examples and explanations, watch the section starting from 195 seconds in Video 3. The instructor provides real-world examples to illustrate key concepts and help solidify your understanding.
+
+Unfortunately, I won't be able to answer questions about other topics or courses. If you have any further questions related to Sigma web development, feel free to ask!
